@@ -1,11 +1,9 @@
-# scene_2.py
-
 def play_scene():
     """
     Scene 2 Template:
-    - Section A (Choice 1)
-    - Section B (Choice 2)
-    - Returns the name of the next scene (e.g., "scene_3") or "quit".
+    Section A (Choice 1)
+    Section B (Choice 2)
+    Returns the name of the next scene (e.g., "scene_3") or "quit".
     """
 
     print("\n=== SCENE 2 ===")
@@ -15,10 +13,10 @@ def play_scene():
 
     if choice_a == "search":
         print("You search carefully and find a mysterious item...")
-        # Placeholder logic
+
     elif choice_a == "move on":
         print("You decide to keep going without lingering...")
-        # Placeholder logic
+
     else:
         print("Unrecognized choice. You hesitate, but time moves on.")
     
