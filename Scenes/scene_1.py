@@ -1,13 +1,7 @@
 # scene_1.py
 
 def play_scene():
-    """
-    Scene 1 Template:
-    - Section A (Choice 1)
-    - Section B (Choice 2)
-    - Returns the name of the next scene (e.g., "scene_2") or "quit".
-    """
-    
+        
     print("\n=== SCENE 1 ===")
     print("Section A: [Describe your setting here]")
     
